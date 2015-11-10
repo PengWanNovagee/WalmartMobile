@@ -5,7 +5,7 @@ This is a research project for Walmart Mobile team, leveraging with Walmart publ
 The features in the iPhone/iPad project includes:
 
 1. Pull to Refresh with animations
-2. Inifinite Scroll (auto-load)
+2. Infinite Scroll (auto-load)
 3. Animated custom rating view
 4. Parallax image header view
 5. MBProgressHUD loading view
