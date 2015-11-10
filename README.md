@@ -16,5 +16,5 @@ The features in the iPhone/iPad project includes:
 
 Link to Demo:
 
-[iPad Demo](https://dl.dropboxusercontent.com/u/64160668/ipad.mov)
-[iPhone Demo](https://dl.dropboxusercontent.com/u/64160668/iphone.mov)
+[iPad Demo](https://www.youtube.com/watch?v=6uL_DSeriiM)
+[iPhone Demo](https://www.youtube.com/watch?v=kbgx4VBwfC8)
