@@ -4,15 +4,15 @@ This is a research project for Walmart Mobile team, leveraging with Walmart publ
 
 The features in the iPhone/iPad project includes:
 
-1. Pull to Refresh with animations
-2. Infinite Scroll (auto-load)
-3. Animated custom rating view
-4. Parallax image header view
-5. MBProgressHUD loading view
-6. NSURLSession (NSURLSessionDataTask and NSURLSessionDownloadTask) to replace AFNetworking
-7. Auto-layout for iPhone (Traditional Table View) and iPad (Grid Collection View)
-8. Embedded with Walmart icons,launch screen and colors
-9. Swift version is coming shortly
+1. I did not use any open source lib, so no "Cocoa Pods" for this project!
+2. Pull to Refresh with animations
+3. Infinite Scroll (auto-load)
+4. Animated custom rating view
+5. Parallax image header view
+6. MBProgressHUD loading view
+7. NSURLSession (NSURLSessionDataTask and NSURLSessionDownloadTask) to replace AFNetworking
+8. Auto-layout for iPhone (Traditional Table View) and iPad (Grid Collection View)
+9. Embedded with Walmart icons,launch screen and colors
 
 Link to Demo:
 
